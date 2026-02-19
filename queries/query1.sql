@@ -1,0 +1,1 @@
+-- (5 pts) What are the last names and emails of all customer who made purchased in the store?
